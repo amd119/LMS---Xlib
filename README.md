@@ -30,6 +30,7 @@ php artisan key:generate
 ```
 php artisan migrate
 ```
+php artisan db:seed
 
 ## Run App
 Install NPM packages first
